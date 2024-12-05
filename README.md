@@ -29,9 +29,8 @@ To get started with the project, follow the steps below:
    git clone https://github.com/vidits11/quiz_game.git
 
    cd quiz_game
-
+   ```
    npm install
-
+   ```
    npm start
-  ```
 
