@@ -1,0 +1,96 @@
+{
+  "questions": [
+    {
+      "question": "PM A is like a detective solving mysteries. Which of these tasks is typically a hallmark of a PM A inspection?",
+      "options": [
+        "Solving riddles about engine codes",
+        "Inspecting brakes, lights, and tires for safety",
+        "Changing the oil and filter",
+        "Replacing the transmission"
+      ],
+      "correctOption": 1,
+      "points": 10,
+      "funFact": "PM A services are quick but critical, ensuring your vehicle’s basics are in top shape!"
+    },
+    {
+      "question": "PM B is often nicknamed the 'Oil Whisperer.' Why?",
+      "options": [
+        "It sings to the oil and makes it last longer.",
+        "It includes an oil and filter change, essential for engine health.",
+        "It tests if your oil can tell fortunes.",
+        "It whispers secret vehicle tips to the owner."
+      ],
+      "correctOption": 1,
+      "points": 10,
+      "funFact": "PM B also builds on PM A by adding more detailed inspections!"
+    },
+    {
+      "question": "How often should PM C services typically be scheduled for medium and heavy-duty trucks?",
+      "options": [
+        "Every 3 months",
+        "Every 6 months",
+        "Once a year",
+        "Only after the truck breaks down"
+      ],
+      "correctOption": 2,
+      "points": 20,
+      "funFact": "PM C services dive deep, checking alignment, components, and more to avoid costly repairs."
+    },
+    {
+      "question": "Which PM service might involve rebuilding or replacing major components like an engine or transmission?",
+      "options": [
+        "PM A",
+        "PM B",
+        "PM C",
+        "PM D"
+      ],
+      "correctOption": 3,
+      "points": 20,
+      "funFact": "PM D is rare but crucial for keeping vehicles running long-term and avoiding catastrophic failures."
+    },
+    {
+      "question": "PM D services can include seasonal customizations. Which of these is NOT an example?",
+      "options": [
+        "Winterizing your vehicle",
+        "Adding extra lights for night driving",
+        "Repainting the vehicle for fun",
+        "Upgrading to summer tires"
+      ],
+      "correctOption": 2,
+      "points": 10,
+      "funFact": "PM D focuses on functionality, like preparing vehicles for extreme weather conditions."
+    },
+    {
+      "question": "What is the typical mileage interval for scheduling a PM B service for heavy-duty trucks?",
+      "options": [
+        "5,000 to 10,000 miles",
+        "10,000 to 20,000 miles",
+        "20,000 to 30,000 miles",
+        "Over 50,000 miles"
+      ],
+      "correctOption": 1,
+      "points": 20,
+      "funFact": "Regular maintenance at these intervals helps prevent costly downtimes."
+    },
+    {
+      "question": "“Trailers don’t need their own preventive maintenance program since they’re not powered vehicles.”",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctOption": 1,
+      "points": 10,
+      "funFact": "Trailers must undergo regular PM to ensure safety and compliance, especially for brakes and lights."
+    },
+    {
+      "question": "PM C services should include an alignment check.",
+      "options": [
+        "Myth",
+        "Fact"
+      ],
+      "correctOption": 1,
+      "points": 10,
+      "funFact": "Alignment checks in PM C ensure the tires wear evenly and the vehicle handles properly."
+    }
+  ]
+}

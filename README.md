@@ -1,1 +1,1 @@
-# quiz_game
+# quiz_games
