@@ -28,10 +28,13 @@ To get started with the project, follow the steps below:
    ```bash
    git clone https://github.com/vidits11/quiz_game.git
    ```
+   ```bash
    cd quiz_game
    ```
+   ```bash
    npm install
    ```
+   ```bash
    npm start
    ```
 
