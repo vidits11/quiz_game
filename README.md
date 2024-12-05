@@ -33,4 +33,5 @@ To get started with the project, follow the steps below:
    npm install
    ```
    npm start
+   ```
 
